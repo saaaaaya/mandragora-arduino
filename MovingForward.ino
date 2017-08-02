@@ -6,6 +6,9 @@ const int PWM_AB = 7;
 const int motorC = 10;
 const int motorD = 9;
 const int PWM_CD = 6;
+
+// 後退gittest
+
 //とりあえず前に進む 
 /*//esp
 const int motorA = 15;
